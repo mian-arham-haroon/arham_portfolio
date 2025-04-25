@@ -1,0 +1,95 @@
+site_name: Arham Haroon's Portfolio
+site_description: Data Scientist • ML Enthusiast • Developer Portfolio
+site_author: Mian Arham Haroon
+
+theme:
+  name: material
+  custom_dir: overrides
+  language: en
+  favicon: assets/images/favicon.ico
+  logo: assets/images/logo.png
+  palette:
+  - scheme: slate  # DARK mode comes first = default
+    primary: cyan
+    accent: amber
+    toggle:
+      icon: material/weather-sunny
+      name: Switch to light mode
+  - scheme: default
+    primary: cyan
+    accent: amber
+    toggle:
+      icon: material/weather-night
+      name: Switch to dark mode
+
+
+  font:
+    text: Fira Sans
+    code: Fira Code
+  features:
+    - navigation.top
+    - navigation.tabs
+    - navigation.instant
+    - navigation.expand
+    - navigation.sections
+    - search.suggest
+    - search.highlight
+    - content.code.annotate
+    - content.tabs.link
+    - toc.integrate
+
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Skills: skills.md
+  - Blog: blogs.md
+  - Resume: resume.md
+  - Testimonials: testimonials.md
+  - About Me: about.md
+  - Contact: contact.md
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex
+  - pymdownx.betterem
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.inlinehilite
+  - pymdownx.magiclink
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tabbed
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+# plugins:
+#   - search
+#   - git-revision-date-localized:
+#       fallback_to_build_date: true
+#   - glightbox
+#   - tags
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/arham10101
+    - icon: fontawesome/brands/linkedin
+      link: https://www.linkedin.com/in/arham-haroon-b001bb359/
+    - icon: fontawesome/brands/x-twitter
+      link: https://twitter.com/
+    - icon: fontawesome/brands/medium
+      link: https://medium.com/
+    - icon: fontawesome/solid/envelope
+      link: mailto:arhamharoon000@gmail.com
+
+extra_css:
+  - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/extra.js
