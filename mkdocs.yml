@@ -7,21 +7,20 @@ theme:
   custom_dir: overrides
   language: en
   favicon: assets/images/favicon.ico
-  logo: assets/images/logo.png
+  logo: assets/images/valid_logo.png
   palette:
-  - scheme: slate  # DARK mode comes first = default
-    primary: cyan
-    accent: amber
-    toggle:
-      icon: material/weather-sunny
-      name: Switch to light mode
-  - scheme: default
-    primary: cyan
-    accent: amber
-    toggle:
-      icon: material/weather-night
-      name: Switch to dark mode
-
+    - scheme: slate
+      primary: cyan
+      accent: amber
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+    - scheme: default
+      primary: cyan
+      accent: amber
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
 
   font:
     text: Fira Sans
@@ -68,17 +67,16 @@ markdown_extensions:
   - pymdownx.tasklist:
       custom_checkbox: true
 
-# plugins:
-#   - search
-#   - git-revision-date-localized:
-#       fallback_to_build_date: true
-#   - glightbox
-#   - tags
+plugins:
+  - search
+  - git-revision-date-localized:
+      fallback_to_build_date: true
+  - glightbox
 
 extra:
   social:
     - icon: fontawesome/brands/github
-      link: https://github.com/arham10101
+      link: https://github.com/mian-arham-haroon
     - icon: fontawesome/brands/linkedin
       link: https://www.linkedin.com/in/arham-haroon-b001bb359/
     - icon: fontawesome/brands/x-twitter
