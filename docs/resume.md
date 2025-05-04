@@ -81,14 +81,6 @@ Although I don’t have formal work experience in the industry yet, I have been 
 
 I am continuously working on enhancing my skills, and I’m eager to apply my knowledge to real-world data science challenges. I am actively seeking opportunities to collaborate with others, contribute to open-source projects, and deepen my expertise in data science. 🚀
 
-
----
-
-## 💡 **Looking Ahead**
-
-I am continuously working on enhancing my skills, and I’m eager to apply my knowledge to real-world data science challenges. I am actively seeking opportunities to collaborate with others, contribute to open-source projects, and deepen my expertise in data science.
-
-
 ---
 
 ## 🎓 Education
@@ -97,8 +89,8 @@ I am continuously working on enhancing my skills, and I’m eager to apply my kn
 **Riphah International University**, Faisalabad, Pakistan  
 📅 *July 2022 – August 2024*  
 🔍 **Key Projects:**  
-- 🏥 Hospital Management System  
-- 🍽️ Restaurant Management System
+- 🍽️ Restaurant Management System  
+- 📦 Inventory Management System
 
 
 ### 💼 Intermediate in Computer Science (ICS)  
