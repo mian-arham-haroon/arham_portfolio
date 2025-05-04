@@ -4,10 +4,8 @@ site_author: Mian Arham Haroon
 
 theme:
   name: material
-  custom_dir: overrides
-  language: en
+  logo: assets/images/logo.png
   favicon: assets/images/favicon.ico
-  logo: assets/images/valid_logo.png
   palette:
     - scheme: slate
       primary: cyan
@@ -21,21 +19,6 @@ theme:
       toggle:
         icon: material/weather-night
         name: Switch to dark mode
-
-  font:
-    text: Fira Sans
-    code: Fira Code
-  features:
-    - navigation.top
-    - navigation.tabs
-    - navigation.instant
-    - navigation.expand
-    - navigation.sections
-    - search.suggest
-    - search.highlight
-    - content.code.annotate
-    - content.tabs.link
-    - toc.integrate
 
 nav:
   - Home: index.md
@@ -85,9 +68,3 @@ extra:
       link: https://medium.com/
     - icon: fontawesome/solid/envelope
       link: mailto:arhamharoon000@gmail.com
-
-extra_css:
-  - stylesheets/extra.css
-
-extra_javascript:
-  - javascripts/extra.js
