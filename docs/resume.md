@@ -4,7 +4,7 @@
 - **Name:** Arham Haroon
 - **📍 Location:** Faisalabad, Pakistan
 - **📧 Email:** arhamharoon000@gmail.com
-- **🌐 Portfolio:** [Your Portfolio Link]
+- **🌐 Portfolio:** [My Portfolio](https://mian-arham-haroon.github.io/arham_portfolio/)
 - **📞 Phone:** 0322-7724235
 - **💼 LinkedIn:** [Your LinkedIn Profile]
 - **🐦 GitHub:** [My GitHub](https://github.com/mian-arham-haroon) 
