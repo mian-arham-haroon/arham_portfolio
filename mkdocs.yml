@@ -4,7 +4,7 @@ site_author: Mian Arham Haroon
 
 theme:
   name: material
-  logo: assets/images/logo.png 
+  logo: assets/images/logo.png
   favicon: assets/images/favicon.ico
   palette:
     - scheme: slate
