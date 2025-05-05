@@ -22,13 +22,13 @@ theme:
 
 nav:
   - Home: index.md
-  - Projects: projects.md
-  - Skills: skills.md
+  - Projects: projects.md  
+  - Skills: skills.md # Optional
   - Blog: blogs.md
-  - Resume: resume.md
+  - Resume: resume.md   # Optional
   - Testimonials: testimonials.md
-  - About Me: about.md
-  - Contact: contact.md
+  - About Me: about.md  # Optional
+  - Contact: contact.md # Optional
 
 markdown_extensions:
   - admonition

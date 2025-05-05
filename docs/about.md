@@ -64,13 +64,3 @@ My goal is to bridge the gap between **raw data and actionable insights**, helpi
 - **Punjabi:** Proficient  
 
 ---
-
-## 📬 **Contact Me**  
-📍 **Location:** Faisalabad, Pakistan  
-📧 **Email:** [arhamharoon000@gmail.com](mailto:arhamharoon000@gmail.com)  
-📞 **Phone:** +92 322 7724235  
-🌐 **Portfolio:** [mian-arham-haroon.github.io/arham_portfolio](https://mian-arham-haroon.github.io/arham_portfolio)  
-🐙 **GitHub:** [github.com/mian-arham-haroon](https://github.com/mian-arham-haroon)  
-💼 **LinkedIn:** [linkedin.com/in/mian-arham-haroon](#) *(Add your actual LinkedIn link if available)*  
-
----
