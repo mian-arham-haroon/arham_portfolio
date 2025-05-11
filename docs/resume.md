@@ -113,6 +113,10 @@ I am continuously working on enhancing my skills, and I’m eager to apply my kn
   Completed a hands-on course covering Python basics with applications in data science, using variables, loops, functions, and tools like Pandas and NumPy.  
   👉 [View Certification](https://courses.cognitiveclass.ai/certificates/bc7185a79c424ab9abe648b139995648)
 
+- 📜 **SQL and Relational Databases 101** – **IBM Cognitive Class**, *May 2025*  
+  Completed an introductory course on SQL, relational databases, and data manipulation using real-world scenarios.  
+  👉 [View Certification](https://courses.cognitiveclass.ai/certificates/a5b04d1457e847f09dc72b3285c0270d)
+
 ---
 
 ## 📚 Projects

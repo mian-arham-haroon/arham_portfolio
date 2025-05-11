@@ -1,66 +1,70 @@
-# 👨‍💻 **About Me**
+# 👨‍💻 About Me
 
 ## 🚀 Introduction  
-I’m **Mian Arham Haroon**, a passionate and self-driven **Data Science student** with a strong foundation in **Python, SQL, C++, and Data Analysis**. My journey in data science is fueled by a deep curiosity for uncovering insights from data and applying machine learning to solve real-world challenges.  
+I’m **Mian Arham Haroon**, a driven **Data Science student** passionate about transforming data into meaningful insights. With a solid foundation in **Python, SQL, C++, and data analysis**, I actively build projects that solve real-world problems using **data visualization** and **machine learning** techniques.
 
-I am actively working on **self-driven projects** in **data analytics, visualization, and machine learning**, leveraging my technical expertise in **Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn**. With experience in **SQL and database management**, I have built **various applications**, including **Retail Management System, Inventory Management System, and Restaurant Management System**.  
-
-My goal is to bridge the gap between **raw data and actionable insights**, helping businesses and individuals make data-driven decisions.  
+I’ve developed various applications such as **Retail Management**, **Inventory Control**, and **Restaurant Systems** using tools like **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Scikit-learn**. My goal is to bridge the gap between data and decision-making by creating value-driven solutions.
 
 ---
 
-## 🎓 **Education**  
-- 🏫 **Associate Degree in Computer Science** – *Riphah International University, Faisalabad* (2022 – 2024)  
-  - 📌 **Key Projects:**  
-    - 🏬 **Retail Management System** – Developed using **Python, Tkinter, and MySQL** for managing inventory, sales, and customer records.  
-    - 📦 **Inventory Management System** – Designed to track product stock, reducing inventory discrepancies by 20%.  
-    - 🍽️ **Restaurant Management System** – Built an efficient order and billing system for restaurant operations.  
+## 🎓 Education
 
-- 🎓 **Intermediate in Computer Science (ICS)** – *Shiblee College of Commerce, Faisalabad* (2019 – 2021)  
-  - 🛠️ **Technical Skills Acquired:**  
-    - 📊 **Data Handling:** MS Excel, Google Sheets  
-    - 📝 **Office Tools:** MS Word, PowerPoint, Excel  
+- 🎓 **Associate Degree in Computer Science**  
+  *Riphah International University, Faisalabad* (2022 – 2024)  
+  - 🛠️ **Key Projects**:
+    - 🏬 Retail Management System *(Python, Tkinter, MySQL)*
+    - 📦 Inventory Management System *(Python, SQL)*
+    - 🍽️ Restaurant Management System *(Python, Flask, MySQL)*
 
-- 📖 **Matriculation in Computer Science** – *Govt. Islamia High School Gutti, Faisalabad* (2017 – 2019)  
+- 🧾 **Intermediate in Computer Science (ICS)**  
+  *Shiblee College of Commerce, Faisalabad* (2019 – 2021)  
 
----
-
-## 💻 **Technical Skills**  
-- **Programming Languages:** Python 🐍, C++ 💻, SQL 🗄️  
-- **Data Analysis & Visualization:** Pandas 🐼, NumPy 🔢, Matplotlib 📊, Seaborn 🎨, Plotly 📈, Tableau 📋  
-- **Machine Learning & AI:** Scikit-learn 🤖, TensorFlow ⚙️, Keras 🧠  
-- **Database Management:** MySQL 🏢, SQLite 🧾  
-- **Development & Tools:** Git 🔧, GitHub 🐙, Jupyter Notebooks 📓, Google Colab ☁️  
-- **Office & Productivity Tools:** MS Office (Word, Excel, PowerPoint) 📝  
+- 🏫 **Matriculation in Computer Science**  
+  *Govt. Islamia High School Gutti, Faisalabad* (2017 – 2019)  
 
 ---
 
-## 🏆 **Certifications**  
-- 📜 **Python for Data Science** – IBM Cognitive Class *(March 2025 – May 2025)*  
-  - [View Certification](https://courses.cognitiveclass.ai/certificates/bc7185a79c424ab9abe648b139995648)  
+## 💻 Technical Skills
+
+- **Languages:** Python 🐍 | SQL 🗄️ | C++ 💻  
+- **Data Analysis & Visualization:** Pandas 🐼 | NumPy 🔢 | Matplotlib 📊 | Seaborn 🎨 | Plotly 📈 | Tableau 📋  
+- **Machine Learning & AI:** Scikit-learn 🤖 | TensorFlow ⚙️ | Keras 🧠  
+- **Database Management:** MySQL 🏢 | SQLite 🧾  
+- **Tools & Platforms:** Git 🔧 | GitHub 🐙 | Jupyter 📓 | Google Colab ☁️  
+- **Productivity:** MS Word 📄 | Excel 📊 | PowerPoint 📽️  
 
 ---
 
-## 📚 **Projects**  
-- 🏬 **Retail Management System** *(Python, MySQL, Tkinter)* – A user-friendly system to manage product inventory, billing, and customer data.  
-- 🍽️ **Restaurant Management System** *(Python, Flask, MySQL)* – A digital solution for restaurant operations, streamlining order processing and billing.  
-- 📦 **Inventory Management System** *(Python, SQL)* – Real-time stock tracking and inventory management tool to reduce discrepancies.  
-- 📝 **Student Registration System** *(Python, MySQL)* – A database-driven system for managing student records and registrations.  
+## 🏆 Certifications
+
+- [📜 SQL and Relational Databases 101 – IBM Cognitive Class (May 2025)](https://courses.cognitiveclass.ai/certificates/a5b04d1457e847f09dc72b3285c0270d)  
+- [📜 Python for Data Science – IBM Cognitive Class (May 2025)](https://courses.cognitiveclass.ai/certificates/bc7185a79c424ab9abe648b139995648)  
 
 ---
 
-## 💡 **Interests**  
-- 📖 **AI & Innovations** – Exploring emerging AI technologies and their applications across industries.  
-- 🎨 **Data Visualization** – Passionate about transforming raw data into meaningful visual stories.  
-- 💻 **Programming Challenges** – Continuously improving problem-solving skills on **LeetCode**, **HackerRank**, and **Kaggle**.  
-- 🚀 **Exploring New Technologies** – Always eager to learn about **machine learning**, **deep learning**, and **automation**.  
-- 📚 **Continuous Learning** – Staying updated with tech trends through books, courses, and webinars.  
+## 📂 Projects
+
+- 🏬 **Retail Management System** – Inventory & billing app with customer database integration.  
+- 🍽️ **Restaurant Management System** – Web-based solution for order handling and payments.  
+- 📦 **Inventory Management System** – Real-time product stock tracking application.  
+- 📝 **Student Registration System** – Database application for student record maintenance.  
 
 ---
 
-## 🌍 **Languages**  
-- **English:** Professional Working Proficiency  
-- **Urdu:** Full Professional Proficiency  
-- **Punjabi:** Proficient  
+## 💡 Interests
+
+- 🤖 Artificial Intelligence and Innovation  
+- 📊 Data Visualization and Dashboards  
+- 🧩 Competitive Programming (LeetCode, HackerRank, Kaggle)  
+- 🚀 Exploring Machine Learning & Deep Learning  
+- 📚 Lifelong Learning via Courses, Books, and Webinars  
+
+---
+
+## 🌐 Languages
+
+- **English:** Professional Working Proficiency 🇬🇧  
+- **Urdu:** Full Professional Proficiency 🇵🇰  
+- **Punjabi:** Conversational Proficiency 🗣️  
 
 ---
