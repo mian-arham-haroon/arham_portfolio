@@ -65,8 +65,8 @@
 
 .home-hero {
   display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(220px, 300px);
-  gap: clamp(1rem, 3vw, 2rem);
+  grid-template-columns: minmax(0, 1.1fr) minmax(220px, 280px);
+  gap: clamp(0.9rem, 2.6vw, 1.8rem);
   align-items: center;
   padding: clamp(1.2rem, 4vw, 2.2rem);
   margin-bottom: 1rem;
@@ -80,7 +80,7 @@
 }
 
 .hero__content {
-  max-width: 720px;
+  max-width: 680px;
   margin-right: auto;
 }
 
@@ -234,8 +234,8 @@
   place-items: center;
   justify-self: end;
   width: 100%;
-  max-width: 300px;
-  min-height: 320px;
+  max-width: 280px;
+  min-height: 300px;
   overflow: hidden;
 }
 
@@ -263,8 +263,8 @@
 .profile-img {
   position: relative;
   z-index: 1;
-  width: min(100%, 260px);
-  max-width: 260px;
+  width: min(100%, 240px);
+  max-width: 240px;
   aspect-ratio: 1;
   display: block;
   margin: 0 auto;
@@ -991,18 +991,29 @@
   .home-hero {
     grid-template-columns: 1fr;
     align-items: start;
+    gap: 1rem;
+  }
+
+  .hero__content {
+    max-width: 100%;
   }
 
   .hero__media {
     justify-self: start;
-    max-width: 240px;
+    width: 100%;
+    max-width: 220px;
     min-height: auto;
-    margin-top: 0.25rem;
+    margin-top: 0.15rem;
+    padding-top: 0.15rem;
+  }
+
+  .hero__media::before {
+    inset: 3% 2% 3% 7%;
   }
 
   .profile-img {
-    width: min(100%, 220px);
-    max-width: 220px;
+    width: min(100%, 190px);
+    max-width: 190px;
     margin: 0;
   }
 
