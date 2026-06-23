@@ -81,16 +81,20 @@
 }
 
 .hero__identity {
-  display: flex;
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr);
   align-items: center;
   gap: 1rem;
   margin-bottom: 1rem;
+  min-height: 120px;
 }
 
 .hero__intro {
   display: flex;
   flex-direction: column;
+  justify-content: center;
   gap: 0.35rem;
+  min-width: 0;
 }
 
 .eyebrow,
@@ -117,6 +121,7 @@
   font-size: clamp(1.08rem, 2vw, 1.34rem);
   font-weight: 700;
   line-height: 1.35;
+  text-align: left;
 }
 
 .hero__subcopy {
@@ -124,6 +129,7 @@
   color: var(--home-muted);
   font-size: 1rem;
   line-height: 1.75;
+  text-align: left;
 }
 
 .hero__actions,
@@ -242,9 +248,10 @@
   display: grid;
   place-items: center;
   width: 100%;
-  max-width: 112px;
+  max-width: 116px;
   min-height: auto;
   overflow: visible;
+  align-self: center;
 }
 
 .hero__media .glightbox {
@@ -259,7 +266,7 @@
 .hero__media::before {
   position: absolute;
   inset: 0;
-  border-radius: 999px;
+  border-radius: 24px;
   border: 1px solid rgba(15, 118, 110, 0.18);
   background:
     linear-gradient(135deg, rgba(255, 255, 255, 0.72), rgba(238, 246, 244, 0.76)),
@@ -271,14 +278,14 @@
 .profile-img {
   position: relative;
   z-index: 1;
-  width: min(100%, 100px);
-  max-width: 100px;
+  width: min(100%, 108px);
+  max-width: 108px;
   aspect-ratio: 1;
   display: block;
   margin: 0 auto;
   padding: 0.24rem;
   border: 1px solid rgba(15, 118, 110, 0.22);
-  border-radius: 50%;
+  border-radius: 20px;
   object-fit: cover;
   object-position: center;
   background: #ffffff;
@@ -348,21 +355,56 @@
 .nav-card {
   display: flex;
   align-items: center;
-  justify-content: center;
-  gap: 0.48rem;
+  justify-content: flex-start;
+  gap: 0.55rem;
+  min-height: 50px;
+  padding: 0.6rem 0.75rem;
   color: var(--home-text) !important;
   font-weight: 800;
-  text-align: center;
+  text-align: left;
   text-decoration: none !important;
+  border: 1px solid rgba(15, 118, 110, 0.16);
+  border-radius: 12px;
+  background:
+    linear-gradient(135deg, rgba(255, 255, 255, 0.96), rgba(238, 246, 244, 0.9)),
+    var(--home-surface);
+  box-shadow: 0 10px 24px rgba(15, 23, 42, 0.06);
 }
 
-.nav-card::before {
-  width: 0.5rem;
-  height: 0.5rem;
-  border-radius: 2px;
-  background: var(--home-primary);
-  content: "";
-  box-shadow: 0 0 0 4px var(--home-primary-soft);
+.nav-card:hover {
+  transform: translateY(-2px);
+  border-color: rgba(15, 118, 110, 0.3);
+  box-shadow: 0 16px 34px rgba(15, 23, 42, 0.1);
+}
+
+.nav-card__icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.45rem;
+  height: 2.45rem;
+  border-radius: 10px;
+  background: linear-gradient(135deg, var(--home-primary-dark), var(--home-primary));
+  color: #ffffff;
+  box-shadow: 0 8px 18px rgba(15, 95, 89, 0.2);
+  flex-shrink: 0;
+}
+
+.nav-card__icon svg {
+  width: 1.12rem;
+  height: 1.12rem;
+  fill: currentColor;
+}
+
+.nav-card__text {
+  display: inline-flex;
+  align-items: center;
+  font-size: 0.96rem;
+  line-height: 1.2;
+}
+
+[data-md-color-scheme="slate"] .nav-card {
+  background: rgba(255, 255, 255, 0.05);
 }
 
 .contact-panel,
@@ -997,18 +1039,18 @@
 
 @media (max-width: 860px) {
   .hero__identity {
-    flex-direction: column;
+    grid-template-columns: 1fr;
     align-items: flex-start;
     gap: 0.7rem;
   }
 
   .hero__media {
-    max-width: 92px;
+    max-width: 104px;
   }
 
   .profile-img {
-    width: min(100%, 88px);
-    max-width: 88px;
+    width: min(100%, 94px);
+    max-width: 94px;
     margin: 0;
   }
 
@@ -1049,7 +1091,9 @@
   }
 
   .hero__media {
-    min-height: 280px;
+    max-width: 100px;
+    min-height: auto;
+    margin: 0 auto;
   }
 
   .hero__actions {
@@ -1059,6 +1103,17 @@
 
   .home-btn {
     width: 100%;
+  }
+
+  .hero__identity {
+    align-items: center;
+    text-align: center;
+  }
+
+  .profile-img {
+    width: min(100%, 90px);
+    max-width: 90px;
+    margin: 0 auto;
   }
 
   .hero__socials,
