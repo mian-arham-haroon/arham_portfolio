@@ -488,8 +488,15 @@
 
 <section class="home-hero">
   <div class="hero__content">
-    <p class="eyebrow">Data Analyst | Analytics Engineer | SQL Developer</p>
-    <h1>Mian Arham Haroon</h1>
+    <div class="hero__identity">
+      <div class="hero__media">
+        <a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="assets/images/Gemini_Generated_Image_z0m2gvz0m2gvz0m2.png" data-desc-position="bottom"><img class="profile-img" src="assets/images/Gemini_Generated_Image_z0m2gvz0m2gvz0m2.png" alt="Arham Haroon"></a>
+      </div>
+      <div class="hero__intro">
+        <p class="eyebrow">Data Analyst | Analytics Engineer | SQL Developer</p>
+        <h1>Mian Arham Haroon</h1>
+      </div>
+    </div>
     <p class="hero__copy">Building data systems that turn business questions into confident decisions.</p>
     <p class="hero__subcopy">I design practical analytics solutions using Python, SQL, Excel, SQLite, PostgreSQL, and reporting workflows that help teams move faster.</p>
     <div class="hero__actions">
@@ -516,9 +523,6 @@
         LinkedIn
       </a>
     </div>
-  </div>
-  <div class="hero__media">
-    <a class="glightbox" data-type="image" data-width="auto" data-height="auto" href="assets/images/Gemini_Generated_Image_z0m2gvz0m2gvz0m2.png" data-desc-position="bottom"><img class="profile-img" src="assets/images/Gemini_Generated_Image_z0m2gvz0m2gvz0m2.png" alt="Arham Haroon"></a>
   </div>
 </section>
 
@@ -589,12 +593,42 @@
     <h2>Explore the portfolio</h2>
   </div>
   <nav class="nav-grid" aria-label="Portfolio navigation">
-    <a class="nav-card" href="projects/"><span>Projects</span></a>
-    <a class="nav-card" href="skills/"><span>Skills</span></a>
-    <a class="nav-card" href="assets/cv/arham%20cv.pdf" download=""><span>Download CV</span></a>
-    <a class="nav-card" href="blogs/"><span>Blog</span></a>
-    <a class="nav-card" href="about/"><span>About</span></a>
-    <a class="nav-card" href="contact/"><span>Contact</span></a>
+    <a class="nav-card" href="projects/">
+      <span class="nav-card__icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24"><path d="M4 5.5A1.5 1.5 0 0 1 5.5 4h4.2l1.6 2.2h7.2A1.5 1.5 0 0 1 19.5 7.7v8.8a1.5 1.5 0 0 1-1.5 1.5h-12A1.5 1.5 0 0 1 4 16.5v-11Z"></path></svg>
+      </span>
+      <span class="nav-card__text">Projects</span>
+    </a>
+    <a class="nav-card" href="skills/">
+      <span class="nav-card__icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24"><path d="M12 2.75 3.5 6.25v5.5c0 4.4 2.8 8.5 8.5 9.5 5.7-1 8.5-5.1 8.5-9.5v-5.5L12 2.75Zm0 3.1 5.5 2.1v3.5c0 3.3-1.9 6.6-5.5 7.6-3.6-1-5.5-4.3-5.5-7.6V7.95L12 5.85Z"></path></svg>
+      </span>
+      <span class="nav-card__text">Skills</span>
+    </a>
+    <a class="nav-card" href="assets/cv/arham%20cv.pdf" download="">
+      <span class="nav-card__icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24"><path d="M12 3a1 1 0 0 1 1 1v8.17l2.3-2.3a1 1 0 1 1 1.42 1.42l-4 4a1 1 0 0 1-1.42 0l-4-4a1 1 0 0 1 1.42-1.42l2.3 2.3V4a1 1 0 0 1 1-1Zm-7 14a1 1 0 0 1 1 1v1h12v-1a1 1 0 1 1 2 0v1a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2v-1a1 1 0 0 1 1-1Z"></path></svg>
+      </span>
+      <span class="nav-card__text">Download CV</span>
+    </a>
+    <a class="nav-card" href="blogs/">
+      <span class="nav-card__icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24"><path d="M5 4a2 2 0 0 0-2 2v10a2 2 0 0 0 2 2h4l2 2 2-2h4a2 2 0 0 0 2-2V6a2 2 0 0 0-2-2H5Zm2 4h10v2H7V8Zm0 4h6v2H7v-2Z"></path></svg>
+      </span>
+      <span class="nav-card__text">Blog</span>
+    </a>
+    <a class="nav-card" href="about/">
+      <span class="nav-card__icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24"><path d="M12 12a4 4 0 1 0-4-4 4 4 0 0 0 4 4Zm0 2c-3.33 0-6 1.79-6 4v1h12v-1c0-2.21-2.67-4-6-4Z"></path></svg>
+      </span>
+      <span class="nav-card__text">About</span>
+    </a>
+    <a class="nav-card" href="contact/">
+      <span class="nav-card__icon" aria-hidden="true">
+        <svg viewBox="0 0 24 24"><path d="M4 5a2 2 0 0 1 2-2h12a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H6a2 2 0 0 1-2-2V5Zm2 2v.2l6 4.2 6-4.2V7l-6 4.2L6 7Z"></path></svg>
+      </span>
+      <span class="nav-card__text">Contact</span>
+    </a>
   </nav>
 </section>
 
@@ -617,7 +651,7 @@
     <span class="md-icon" title="Last update">
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M21 13.1c-.1 0-.3.1-.4.2l-1 1 2.1 2.1 1-1c.2-.2.2-.6 0-.8l-1.3-1.3c-.1-.1-.2-.2-.4-.2m-1.9 1.8-6.1 6V23h2.1l6.1-6.1zM12.5 7v5.2l4 2.4-1 1L11 13V7zM11 21.9c-5.1-.5-9-4.8-9-9.9C2 6.5 6.5 2 12 2c5.3 0 9.6 4.1 10 9.3-.3-.1-.6-.2-1-.2s-.7.1-1 .2C19.6 7.2 16.2 4 12 4c-4.4 0-8 3.6-8 8 0 4.1 3.1 7.5 7.1 7.9l-.1.2z"></path></svg>
     </span>
-    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="May 6, 2025 21:02:14 UTC">May 6, 2025</span>
+    <span class="git-revision-date-localized-plugin git-revision-date-localized-plugin-date" title="June 23, 2026 21:39:54 UTC">June 23, 2026</span>
   </span>
 
     
