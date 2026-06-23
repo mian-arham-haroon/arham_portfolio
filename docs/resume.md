@@ -1,180 +1,145 @@
-# 📄 **Data Scientist Resume**
+# Resume
 
-## 👤 **Personal Information**
-- **Name:** Arham Haroon
-- **📍 Location:** Faisalabad, Pakistan
-- **📧 Email:** arhamharoon000@gmail.com
-- **🌐 Portfolio:** [My Portfolio](https://mian-arham-haroon.github.io/arham_portfolio/)
-- **📞 Phone:** 0322-7724235
-- **💼 LinkedIn:** [Your LinkedIn Profile]
-- **🐦 GitHub:** [My GitHub](https://github.com/mian-arham-haroon) 
+<section class="resume-hero">
+  <div>
+    <p class="section-eyebrow">Profile</p>
+    <h1>Mian Arham Haroon</h1>
+    <p class="resume-role">Data Analyst | Analytics Engineer | SQL Developer</p>
+    <div class="resume-stack">
+      <span>Python</span>
+      <span>SQL</span>
+      <span>Excel</span>
+      <span>PostgreSQL</span>
+      <span>SQLite</span>
+    </div>
+    <p class="resume-summary">Building data-driven applications, reporting systems, and analytics solutions using SQL, Python, and modern database technologies. Focused on transforming raw operational data into reporting dashboards and measurable business insights.</p>
+    <div class="hero__actions">
+      <a class="home-btn home-btn--primary" href="../assets/cv/arham%20cv.pdf" download>
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 20h14v-2H5v2ZM19 9h-4V3H9v6H5l7 7 7-7Z"/></svg>
+        Download CV
+      </a>
+      <a class="home-btn home-btn--outline" href="../contact/">
+        <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2Zm0 4-8 5-8-5V6l8 5 8-5v2Z"/></svg>
+        Contact
+      </a>
+    </div>
+  </div>
+</section>
 
----
+<section class="resume-contact-grid" aria-label="Contact details">
+  <a href="tel:+923227724235">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M6.6 10.8c1.4 2.8 3.8 5.1 6.6 6.6l2.2-2.2c.3-.3.8-.4 1.2-.3 1.3.4 2.7.6 4.1.6.7 0 1.3.6 1.3 1.3v3.5c0 .7-.6 1.3-1.3 1.3C10.4 22 2 13.6 2 3.3 2 2.6 2.6 2 3.3 2h3.5c.7 0 1.3.6 1.3 1.3 0 1.4.2 2.8.6 4.1.1.4 0 .9-.3 1.2l-1.8 2.2Z"/></svg>
+    <span><strong>Phone</strong><small>+92 322 7724235</small></span>
+  </a>
+  <a href="mailto:arhamharoon000@gmail.com">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 4H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2Zm0 4-8 5-8-5V6l8 5 8-5v2Z"/></svg>
+    <span><strong>Email</strong><small>arhamharoon000@gmail.com</small></span>
+  </a>
+  <a href="https://linkedin.com/in/mian-arham-haroon" target="_blank" rel="noopener">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4.98 3.5C4.98 4.88 3.86 6 2.5 6S0 4.88 0 3.5 1.12 1 2.5 1s2.48 1.12 2.48 2.5ZM.4 8h4.16v15H.4V8Zm7.35 0h3.98v2.05h.06c.55-1.04 1.9-2.14 3.92-2.14 4.2 0 4.98 2.76 4.98 6.35V23h-4.16v-7.75c0-1.85-.03-4.22-2.57-4.22-2.58 0-2.98 2.01-2.98 4.09V23H7.75V8Z"/></svg>
+    <span><strong>LinkedIn</strong><small>mian-arham-haroon</small></span>
+  </a>
+  <a href="https://github.com/mian-arham-haroon" target="_blank" rel="noopener">
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 .5A11.5 11.5 0 0 0 8.36 22.9c.58.1.8-.25.8-.56v-2.02c-3.26.7-3.95-1.4-3.95-1.4-.53-1.35-1.3-1.72-1.3-1.72-1.06-.72.08-.7.08-.7 1.18.08 1.8 1.2 1.8 1.2 1.04 1.78 2.73 1.27 3.4.97.1-.75.4-1.27.74-1.56-2.6-.3-5.34-1.3-5.34-5.78 0-1.28.46-2.32 1.2-3.14-.12-.3-.52-1.5.12-3.1 0 0 .98-.32 3.2 1.2a11.1 11.1 0 0 1 5.82 0c2.22-1.52 3.2-1.2 3.2-1.2.64 1.6.24 2.8.12 3.1.75.82 1.2 1.86 1.2 3.14 0 4.5-2.74 5.48-5.35 5.77.42.36.8 1.08.8 2.18v3.24c0 .31.2.67.8.56A11.5 11.5 0 0 0 12 .5Z"/></svg>
+    <span><strong>GitHub</strong><small>mian-arham-haroon</small></span>
+  </a>
+  <div>
+    <svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2 2 7l10 5 10-5-10-5Zm0 7.8L6.5 7 12 4.2 17.5 7 12 9.8ZM4 10v7l8 4 8-4v-7l-8 4-8-4Z"/></svg>
+    <span><strong>Open To</strong><small>Internship | Junior Data Analyst | SQL Developer | Analytics Roles</small></span>
+  </div>
+</section>
 
-## 🎯 **Professional Summary**
-🌟 I am a passionate and motivated Data Science student 📚 with a strong foundation in programming, mathematics, and data analysis. Focused on self-study and hands-on projects 💻, I have developed a solid understanding of key data science concepts, including machine learning, data visualization 📊, statistical analysis 📉, and database management. Although I am not currently seeking a position within an industry or company 🏢, I actively engage with real-world data through personal projects, continuously enhancing my skills and expertise.
+<section class="resume-focus">
+  <p class="section-eyebrow">Professional focus</p>
+  <p>Seeking opportunities in Data Analytics, SQL Development, and Business Intelligence where I can build reporting systems, analyze business data, and contribute to data-driven decision making.</p>
+</section>
 
-My technical skills include proficiency in Python 🐍, C++, SQL, and data science libraries such as Pandas, NumPy, Matplotlib, Seaborn, and Scikit-learn. I also have experience in creating interactive visualizations and data dashboards using tools like Plotly and Tkinter. I thrive on solving complex data problems and translating insights into actionable results 🔍.
+<section class="resume-section">
+  <div class="section-heading">
+    <p class="section-eyebrow">Technical skills</p>
+    <h2>Focused toolkit</h2>
+  </div>
+  <div class="resume-skill-grid">
+    <article><strong>Data Analytics</strong><span>Python, Pandas, NumPy, Matplotlib, EDA, data cleaning, data transformation</span></article>
+    <article><strong>Database & Querying</strong><span>SQL, SQLite, PostgreSQL, Supabase, database design, query optimization</span></article>
+    <article><strong>Business Intelligence</strong><span>Excel, KPI reporting, dashboard development, business reporting, data visualization</span></article>
+    <article><strong>Development Tools</strong><span>Git, GitHub, VS Code, Jupyter Notebook, Postman</span></article>
+    <article><strong>Programming</strong><span>Python, SQL, C++</span></article>
+  </div>
+</section>
 
-Driven by curiosity 🔍 and a desire to contribute to the data science community 🌐, my goal is to continuously refine my skills, embrace emerging technologies 🚀, and make a meaningful impact in the ever-evolving world of data science 🌟.
+<section class="resume-section">
+  <div class="section-heading">
+    <p class="section-eyebrow">Projects</p>
+    <h2>Selected work</h2>
+  </div>
+  <div class="resume-project-grid">
+    <article>
+      <div class="skill-card__icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 4h18v16H3V4Zm2 2v12h14V6H5Zm2 2h5v2H7V8Zm0 4h10v2H7v-2Z"/></svg></div>
+      <h3>DUKAN App Reporting & Analytics Module</h3>
+      <div class="resume-tech"><span>SQLite</span><span>SQL</span><span>React Native</span></div>
+      <ul>
+        <li>Designed sales, inventory, customer credit, and invoice reporting modules.</li>
+        <li>Built SQL-driven KPI dashboards for operational monitoring and decision support.</li>
+      </ul>
+    </article>
+    <article>
+      <div class="skill-card__icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 18h16v2H4v-2Zm2-8h3v6H6v-6Zm5-5h3v11h-3V5Zm5 3h3v8h-3V8Z"/></svg></div>
+      <h3>Business Data Analysis Project</h3>
+      <div class="resume-tech"><span>Python</span><span>Pandas</span><span>SQL</span></div>
+      <ul>
+        <li>Cleaned and transformed datasets for analysis, reporting, and trend discovery.</li>
+        <li>Used SQL aggregation and Matplotlib visuals to communicate business findings.</li>
+      </ul>
+    </article>
+    <article>
+      <div class="skill-card__icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M20 6h-8l-2-2H4c-1.1 0-2 .9-2 2v12c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V8c0-1.1-.9-2-2-2Zm-3 10H7v-2h10v2Zm0-4H7v-2h10v2Z"/></svg></div>
+      <h3>Inventory Management System</h3>
+      <div class="resume-tech"><span>Python</span><span>SQLite</span><span>Tkinter</span></div>
+      <ul>
+        <li>Developed a desktop inventory application with SQLite-backed CRUD workflows.</li>
+        <li>Built stock monitoring, search, and inventory reporting features with Tkinter.</li>
+      </ul>
+    </article>
+  </div>
+</section>
 
----
+<section class="resume-section">
+  <div class="section-heading">
+    <p class="section-eyebrow">Education</p>
+    <h2>Academic path</h2>
+  </div>
+  <div class="about-timeline">
+    <article><span>2026 - Present</span><strong>BS Computer Science (Bridging)</strong><p>Government College University Faisalabad. CGPA: 3.54 / 4.00. Relevant coursework: Database Systems, Statistics, Data Structures, Programming Fundamentals.</p></article>
+    <article><span>2022 - 2024</span><strong>Associate Degree in Computer Science</strong><p>Riphah International University, Faisalabad.</p></article>
+    <article><span>2019 - 2021</span><strong>Intermediate in Computer Science (ICS)</strong><p>Shiblee College of Commerce, Faisalabad.</p></article>
+    <article><span>2017 - 2019</span><strong>Matriculation in Computer Science</strong><p>Govt. Islamia High School Gutti, Faisalabad.</p></article>
+  </div>
+</section>
 
-## 🛠️ Technical Skills
-
-### 🧑‍💻 Programming Languages
-- **Python** 🐍
-- **C++** 💻
-- **SQL** 🗄️
-
-### 📊 Data Analysis & Visualization
-- **Pandas** 🐼, **NumPy** 🔢
-- **Matplotlib**, **Seaborn**, **Plotly** 📈
-- **Tableau** 📋
-
-### 🤖 Machine Learning & AI
-- **Scikit-learn** 🤖
-- **TensorFlow** ⚙️
-- **Keras** 🧠
-
-### 📁 Data Handling & Processing
-- **Jupyter Notebooks** 📓
-- **Excel**, **CSV**, **JSON** 📁
-- **Web Scraping** 🌐
-
-### 🧾 Databases
-- **MySQL** 🏢
-- **SQLite** 🧾
-
-### 🔧 Version Control & Collaboration
-- **Git**, **GitHub** 🐙
-
-### 🖥️ Development Tools
-- **Tkinter** (GUI) 🖥️
-- **Visual Studio Code** 🧑‍💻
-- **Google Colab** ☁️
-
-
----
-
-# 💼 **Experience**
-
-Although I don’t have formal work experience in the industry yet, I have been **actively learning** and **applying data science concepts** through various **self-driven projects** and my **academic work** at Riphah International University. Below are some of the key aspects of my experience:
-
-- **Personal Projects:**
-  - 🛠️ **Retail Management System:** Developed a comprehensive retail management system using Python, MySQL, and Tkinter to handle product management, inventory, billing, and customer data.
-  - 🍽️ **Restaurant Management System:** Created a restaurant management system to streamline operations, order processing, and enhance customer service.
-  - 📦 **Inventory Management System:** Designed an inventory management system using Python and SQL for tracking and managing stock, including real-time updates and reporting.
-
-- **Certifications:**
-  - 📜 **Python for Data Science (IBM Cognitive Class):** Completed this course to deepen my understanding of Python basics, Pandas, NumPy, and other data science tools.
-
-- **Academic Projects:**
-  - 🎓 As part of my **Associate Degree in Computer Science**, I’ve worked on multiple assignments involving **Python**, **SQL**, **Machine Learning**, and **Data Visualization** that enhanced my understanding of core data science concepts.
-
-- **Hands-on Learning:**
-  - 💻 **LeetCode**, 🏆 **Kaggle**, and 🔗 **GitHub:** Actively participate in coding challenges, data science competitions, and contribute to open-source projects to keep improving my skills and knowledge.
-
----
-
-## 💡 **Looking Ahead**
-
-I am continuously working on enhancing my skills, and I’m eager to apply my knowledge to real-world data science challenges. I am actively seeking opportunities to collaborate with others, contribute to open-source projects, and deepen my expertise in data science. 🚀
-
----
-
-## 🎓 Education
-
-### 🧑‍💻 Associate Degree in Computer Science  
-**Riphah International University**, Faisalabad, Pakistan  
-📅 *July 2022 – August 2024*  
-🔍 **Key Projects:**  
-- 🍽️ Restaurant Management System  
-- 📦 Inventory Management System
-
-
-### 💼 Intermediate in Computer Science (ICS)  
-**Shiblee College of Commerce**, Faisalabad, Pakistan  
-📅 *July 2019 – October 2021*  
-🛠️ **Tools & Skills Gained:**  
-- 🧾 MS Office Suite: Word, PowerPoint, Excel  
-- 📊 Spreadsheets: Excel, Google Sheets
-
-
-### 🏫 Matriculation in Computer Science  
-**Govt. Islamia High School Gutti**, Faisalabad, Pakistan  
-📅 *June 2017 – July 2019*
-
-
----
-## 🏆 Certifications
-
-- 📜 **Python for Data Science** – **IBM Cognitive Class**, *March 2025 – May 2025*  
-  Completed a hands-on course covering Python basics with applications in data science, using variables, loops, functions, and tools like Pandas and NumPy.  
-  👉 [View Certification](https://courses.cognitiveclass.ai/certificates/bc7185a79c424ab9abe648b139995648)
-
-- 📜 **SQL and Relational Databases 101** – **IBM Cognitive Class**, *May 2025*  
-  Completed an introductory course on SQL, relational databases, and data manipulation using real-world scenarios.  
-  👉 [View Certification](https://courses.cognitiveclass.ai/certificates/a5b04d1457e847f09dc72b3285c0270d)
-
----
-
-## 📚 Projects
-
-### 📦 **Inventory Management System**  
-- 🔧 **Tools Used:** Python, Tkinter, MySQL  
-- 🌟 **Description:** Designed an inventory management system for retail operations, integrating real-time stock tracking and automated inventory updates, reducing stock discrepancies by 20%.
-
-### 📝 **Student Registration System with Database**  
-- 🔧 **Tools Used:** Python, MySQL  
-- 🌟 **Description:** Developed a student registration system with a database integration to efficiently manage student records, streamlining the registration process and reducing manual errors by 30%.
-
-### 🍽️ **Restaurant Management System**  
-- 🔧 **Tools Used:** Python, Flask, MySQL  
-- 🌟 **Description:** Developed a web application to manage restaurant operations, enhancing order processing speed by 25%.
-
----
-
-## 🏆 **Achievements**
-
-- 🏅 **Top 10% in Data Science Competitions:** Ranked in the top 10% in various online data science competitions on platforms like Kaggle and DrivenData, showcasing my problem-solving and analytical skills.
-
-- 🎯 **Completed 5+ Data Science Projects:** Successfully completed over 5 data science projects, including a **Retail Management System** and **Inventory Management System**, demonstrating proficiency in Python, MySQL, and data visualization tools.
-
-- 📚 **Certified Python Developer:** Earned a certification in **Python for Data Science** from IBM Cognitive Class, further enhancing my skills in programming, data analysis, and machine learning.
-
-- 🌍 **Community Contribution:** Actively contributing to open-source projects and collaborating with global data science communities to solve real-world problems through data.
-
-- 🧑‍🏫 **Tutored 100+ Students in Programming:** Volunteered as a peer tutor, helping over 100 students grasp core programming concepts in Python, C++, and SQL, fostering a collaborative learning environment.
-
-- 🏅 **Academic Excellence:** Consistently achieved top grades in courses like Data Science, Machine Learning, and Database Management, showcasing my strong academic foundation in computer science.
- 
-
----
-
-## 🌍 **Languages**
-
-- **English:** Proficient  
-  Fluent in both written and spoken English, capable of effectively communicating complex technical concepts and collaborating in professional environments.
-
-- **Urdu:** Native Proficiency  
-  Full professional proficiency in Urdu, with the ability to communicate, write, and comprehend at a high level.
-
-- **Punjabi:** Proficient  
-  Strong understanding of spoken and written Punjabi, able to communicate effectively in both casual and professional contexts.
-
-
----
-
-## 💡 **Interests**
-
-- 📖 **AI Advancements & Innovations:** Passionate about staying ahead of the curve by reading and exploring the latest advancements in artificial intelligence and its impact on various industries.
-
-- 🌍 **Global Challenges & Data-Driven Solutions:** Eager to leverage data science to solve pressing global challenges such as climate change, healthcare improvements, and economic development through innovative, data-driven approaches.
-
-- 🎨 **Data Visualization & Storytelling:** Enthusiastic about transforming complex data into compelling, visually engaging stories that simplify decision-making and communicate insights effectively to diverse audiences.
-
-
----
-
-*Feel free to customize this template to suit your needs!*
+<section class="resume-section">
+  <div class="section-heading">
+    <p class="section-eyebrow">Credentials</p>
+    <h2>Certifications</h2>
+  </div>
+  <div class="cert-grid">
+    <article class="cert-card">
+      <div class="cert-card__icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2 3 6v6c0 5 3.8 9.7 9 10 5.2-.3 9-5 9-10V6l-9-4Zm-1 14-4-4 1.4-1.4 2.6 2.6 5.6-5.6L18 9l-7 7Z"/></svg></div>
+      <span class="cert-card__provider">Simplilearn SkillUp</span>
+      <strong>Introduction to SQL</strong>
+      <a class="cert-link" href="https://www.simplilearn.com/skillup-certificate-landing?token=eyJjb3Vyc2VfaWQiOiIxODExIiwiY2VydGlmaWNhdGVfdXJsIjoiaHR0cHM6XC9cL2NlcnRpZmljYXRlcy5zaW1wbGljZG4ubmV0XC9zaGFyZVwvODMzNjI0OF84NjczMjA0MTc0NzA4MjI1MDgwMy5wbmciLCJ1c2VybmFtZSI6Ik1pYW4gQXJoYW0gSGFyb29uIn0%3D&utm_source=shared-certificate&utm_medium=lms&utm_campaign=shared-certificate-promotion&referrer=https%3A%2F%2Flms.simplilearn.com%2Fcourses%2F4309%2FIntroduction-to-SQL%2F%28certificate%2Fdownload-skillup%2F%2Fcertificate%3Acertificate-locked-new%29&%24web_only=true&_branch_match_id=1598064913779506608&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXL87MLcjJ1EssKNDLyczL1k%2FVT4wMNzAId%2FHPCkmyrytKTUstKsrMS49PKsovL04tsvUBqkpN8cwDAAaxbWtBAAAA" target="_blank" rel="noopener">View Certificate</a>
+    </article>
+    <article class="cert-card">
+      <div class="cert-card__icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2 3 6v6c0 5 3.8 9.7 9 10 5.2-.3 9-5 9-10V6l-9-4Zm-1 14-4-4 1.4-1.4 2.6 2.6 5.6-5.6L18 9l-7 7Z"/></svg></div>
+      <span class="cert-card__provider">IBM Cognitive Class</span>
+      <strong>Python for Data Science</strong>
+      <a class="cert-link" href="https://courses.cognitiveclass.ai/certificates/bc7185a79c424ab9abe648b139995648" target="_blank" rel="noopener">View Certificate</a>
+    </article>
+    <article class="cert-card">
+      <div class="cert-card__icon"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 2 3 6v6c0 5 3.8 9.7 9 10 5.2-.3 9-5 9-10V6l-9-4Zm-1 14-4-4 1.4-1.4 2.6 2.6 5.6-5.6L18 9l-7 7Z"/></svg></div>
+      <span class="cert-card__provider">IBM Cognitive Class</span>
+      <strong>SQL and Relational Databases 101</strong>
+      <a class="cert-link" href="https://courses.cognitiveclass.ai/certificates/a5b04d1457e847f09dc72b3285c0270d" target="_blank" rel="noopener">View Certificate</a>
+    </article>
+  </div>
+</section>

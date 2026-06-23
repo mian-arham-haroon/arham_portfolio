@@ -1,34 +1,34 @@
 site_name: Arham Haroon's Portfolio
-site_description: Data Scientist • ML Enthusiast • Developer Portfolio
+site_description: Data Analyst | Analytics Engineer | SQL Developer Portfolio
 site_author: Mian Arham Haroon
 
 theme:
   name: material
   logo: assets/images/logo.png
-  favicon: assets/images/favicon.ico
+  favicon: assets/images/favicon.png
   palette:
-    - scheme: slate
-      primary: cyan
+    - scheme: default
+      primary: teal
       accent: amber
       toggle:
         icon: material/weather-sunny
-        name: Switch to light mode
-    - scheme: default
-      primary: cyan
+        name: Switch to dark mode
+    - scheme: slate
+      primary: teal
       accent: amber
       toggle:
         icon: material/weather-night
-        name: Switch to dark mode
+        name: Switch to light mode
 
 nav:
   - Home: index.md
-  - Projects: projects.md  
-  - Skills: skills.md # Optional
+  - Projects: projects.md
+  - Skills: skills.md
   - Blog: blogs.md
-  - Resume: resume.md   # Optional
+  - Resume: resume.md
   - Testimonials: testimonials.md
-  - About Me: about.md  # Optional
-  - Contact: contact.md # Optional
+  - About Me: about.md
+  - Contact: contact.md
 
 markdown_extensions:
   - admonition
@@ -56,15 +56,14 @@ plugins:
       fallback_to_build_date: true
   - glightbox
 
+extra_css:
+  - stylesheets/extra.css
+
 extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/mian-arham-haroon
     - icon: fontawesome/brands/linkedin
-      link: https://www.linkedin.com/in/arham-haroon-b001bb359/
-    - icon: fontawesome/brands/x-twitter
-      link: https://twitter.com/
-    - icon: fontawesome/brands/medium
-      link: https://medium.com/
+      link: https://linkedin.com/in/mian-arham-haroon
     - icon: fontawesome/solid/envelope
       link: mailto:arhamharoon000@gmail.com
