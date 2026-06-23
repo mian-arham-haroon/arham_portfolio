@@ -266,7 +266,7 @@
 .hero__media::before {
   position: absolute;
   inset: 0;
-  border-radius: 24px;
+  border-radius: 22px;
   border: 1px solid rgba(15, 118, 110, 0.18);
   background:
     linear-gradient(135deg, rgba(255, 255, 255, 0.72), rgba(238, 246, 244, 0.76)),
@@ -285,7 +285,7 @@
   margin: 0 auto;
   padding: 0.24rem;
   border: 1px solid rgba(15, 118, 110, 0.22);
-  border-radius: 20px;
+  border-radius: 18px;
   object-fit: cover;
   object-position: center;
   background: #ffffff;
@@ -1052,6 +1052,7 @@
     width: min(100%, 94px);
     max-width: 94px;
     margin: 0;
+    border-radius: 18px;
   }
 
   .hero__media .glightbox {
@@ -1114,6 +1115,7 @@
     width: min(100%, 90px);
     max-width: 90px;
     margin: 0 auto;
+    border-radius: 20px;
   }
 
   .hero__socials,
