@@ -110,7 +110,7 @@
 .home-hero h1 {
   margin: 0 0 0.9rem;
   color: var(--home-text);
-  font-size: clamp(2rem, 4vw, 3.2rem);
+  font-size: clamp(1.8rem, 3.6vw, 2.9rem);
   line-height: 1.04;
   letter-spacing: 0;
 }
@@ -119,7 +119,7 @@
   margin: 0 0 0.7rem;
   color: var(--home-text);
   font-size: clamp(1.08rem, 2vw, 1.34rem);
-  font-weight: 700;
+  font-weight: 600;
   line-height: 1.35;
   text-align: left;
 }
@@ -248,7 +248,7 @@
   display: grid;
   place-items: center;
   width: 100%;
-  max-width: 116px;
+  max-width: 164px;
   min-height: auto;
   overflow: visible;
   align-self: center;
@@ -278,8 +278,8 @@
 .profile-img {
   position: relative;
   z-index: 1;
-  width: min(100%, 108px);
-  max-width: 108px;
+  width: min(100%, 152px);
+  max-width: 152px;
   aspect-ratio: 1;
   display: block;
   margin: 0 auto;
@@ -1045,12 +1045,12 @@
   }
 
   .hero__media {
-    max-width: 104px;
+    max-width: 116px;
   }
 
   .profile-img {
-    width: min(100%, 94px);
-    max-width: 94px;
+    width: min(100%, 106px);
+    max-width: 106px;
     margin: 0;
     border-radius: 18px;
   }
@@ -1092,7 +1092,7 @@
   }
 
   .hero__media {
-    max-width: 100px;
+    max-width: 118px;
     min-height: auto;
     margin: 0 auto;
   }
@@ -1112,8 +1112,8 @@
   }
 
   .profile-img {
-    width: min(100%, 90px);
-    max-width: 90px;
+    width: min(100%, 104px);
+    max-width: 104px;
     margin: 0 auto;
     border-radius: 20px;
   }
