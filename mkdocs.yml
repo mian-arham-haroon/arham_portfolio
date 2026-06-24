@@ -4,8 +4,8 @@ site_author: Mian Arham Haroon
 
 theme:
   name: material
-  logo: assets/images/logo.png
-  favicon: assets/images/favicon.png
+  logo: assets/images/logo-20260624.png
+  favicon: assets/images/favicon-ah-20260624.png
   palette:
     - scheme: default
       primary: teal

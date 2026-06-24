@@ -10,7 +10,7 @@
   <article class="project-card">
     <div class="project-card__content">
       <div class="project-card__meta">
-        <span class="project-pill">Python • SQLite • SQL</span>
+        <span class="project-pill">Python &bull; SQLite &bull; SQL</span>
         <span class="project-pill project-pill--accent">Business Analytics</span>
       </div>
       <h2>DUKAN App</h2>
@@ -55,7 +55,7 @@
   <article class="project-card">
     <div class="project-card__content">
       <div class="project-card__meta">
-        <span class="project-pill">Python • SQLite • Tkinter</span>
+        <span class="project-pill">Python &bull; SQLite &bull; Tkinter</span>
         <span class="project-pill project-pill--accent">Desktop Application</span>
       </div>
       <h2>Inventory Management System</h2>
@@ -96,7 +96,7 @@
   <article class="project-card">
     <div class="project-card__content">
       <div class="project-card__meta">
-        <span class="project-pill">Python • SQLite</span>
+        <span class="project-pill">Python &bull; SQLite</span>
         <span class="project-pill project-pill--accent">Academic Systems</span>
       </div>
       <h2>Student Management System</h2>
@@ -133,7 +133,7 @@
   <article class="project-card">
     <div class="project-card__content">
       <div class="project-card__meta">
-        <span class="project-pill">Python • Pandas • Matplotlib</span>
+        <span class="project-pill">Python &bull; Pandas &bull; Matplotlib</span>
         <span class="project-pill project-pill--accent">Data Analysis</span>
       </div>
       <h2>Olympics Web Data Analysis Project</h2>
