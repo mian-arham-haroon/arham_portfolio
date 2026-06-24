@@ -78,16 +78,16 @@
     <div class="project-card__media">
       <div class="project-gallery" aria-label="Inventory Management screenshots">
         <div class="project-thumb">
-          <img src="../assets/images/Gemini_Generated_Image_z0m2gvz0m2gvz0m2.png" alt="Inventory Management placeholder screenshot 1" />
-          <span>Placeholder screenshot 1</span>
+          <img src="../assets/images/projects/inventory/ss_main_page.png" alt="Inventory Management main interface" />
+          <span>Main Interface</span>
         </div>
         <div class="project-thumb">
-          <img src="../assets/images/Gemini_Generated_Image_z0m2gvz0m2gvz0m2.png" alt="Inventory Management placeholder screenshot 2" />
-          <span>Placeholder screenshot 2</span>
+          <img src="../assets/images/projects/inventory/ss_manage_employee.png" alt="Inventory Management employee section" />
+          <span>Employee Management</span>
         </div>
         <div class="project-thumb">
-          <img src="../assets/images/Gemini_Generated_Image_z0m2gvz0m2gvz0m2.png" alt="Inventory Management placeholder screenshot 3" />
-          <span>Placeholder screenshot 3</span>
+          <img src="../assets/images/projects/inventory/ss_manage_product.png" alt="Inventory Management product section" />
+          <span>Product Management</span>
         </div>
       </div>
     </div>
@@ -119,16 +119,12 @@
     <div class="project-card__media">
       <div class="project-gallery" aria-label="Student Management screenshots">
         <div class="project-thumb">
-          <img src="../assets/images/Gemini_Generated_Image_z0m2gvz0m2gvz0m2.png" alt="Student Management placeholder screenshot 1" />
-          <span>Placeholder screenshot 1</span>
+          <img src="../assets/images/projects/student/ssm.png" alt="Student Management screenshot 1" />
+          <span>Dashboard</span>
         </div>
         <div class="project-thumb">
-          <img src="../assets/images/Gemini_Generated_Image_z0m2gvz0m2gvz0m2.png" alt="Student Management placeholder screenshot 2" />
-          <span>Placeholder screenshot 2</span>
-        </div>
-        <div class="project-thumb">
-          <img src="../assets/images/Gemini_Generated_Image_z0m2gvz0m2gvz0m2.png" alt="Student Management placeholder screenshot 3" />
-          <span>Placeholder screenshot 3</span>
+          <img src="../assets/images/projects/student/Capture.PNG" alt="Student Management screenshot 2" />
+          <span>Records</span>
         </div>
       </div>
     </div>
@@ -160,16 +156,16 @@
     <div class="project-card__media">
       <div class="project-gallery" aria-label="Olympics project screenshots">
         <div class="project-thumb">
-          <img src="../assets/images/Gemini_Generated_Image_z0m2gvz0m2gvz0m2.png" alt="Olympics project placeholder screenshot 1" />
-          <span>Placeholder screenshot 1</span>
+          <img src="../assets/images/projects/olympics/s1 (1).png" alt="Olympics analysis visualization" />
+          <span>Analysis 1</span>
         </div>
         <div class="project-thumb">
-          <img src="../assets/images/Gemini_Generated_Image_z0m2gvz0m2gvz0m2.png" alt="Olympics project placeholder screenshot 2" />
-          <span>Placeholder screenshot 2</span>
+          <img src="../assets/images/projects/olympics/s2 (2).png" alt="Olympics data insights" />
+          <span>Insights</span>
         </div>
         <div class="project-thumb">
-          <img src="../assets/images/Gemini_Generated_Image_z0m2gvz0m2gvz0m2.png" alt="Olympics project placeholder screenshot 3" />
-          <span>Placeholder screenshot 3</span>
+          <img src="../assets/images/projects/olympics/s3 (1).png" alt="Olympics trends" />
+          <span>Trends</span>
         </div>
       </div>
     </div>

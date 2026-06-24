@@ -1330,11 +1330,11 @@
   align-items: start;
   gap: 1rem;
   padding: 1rem;
-  border: 1px solid var(--home-border);
-  border-radius: var(--home-radius);
-  background: var(--home-surface);
-  box-shadow: var(--home-card-shadow);
-  overflow: hidden;
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+  overflow: visible;
 }
 
 .project-card__content {
@@ -1342,7 +1342,8 @@
   flex-direction: column;
   gap: 0.8rem;
   min-width: 0;
-  padding: 0.2rem 0.1rem 0.2rem 0;
+  padding: 0;
+  background: transparent;
 }
 
 .project-card__meta {
@@ -1355,10 +1356,10 @@
   display: inline-flex;
   align-items: center;
   padding: 0.35rem 0.6rem;
-  border: 1px solid rgba(15, 118, 110, 0.18);
+  border: 1px solid rgba(15, 23, 42, 0.08);
   border-radius: 999px;
-  background: var(--home-primary-soft);
-  color: var(--home-primary-dark);
+  background: transparent;
+  color: var(--home-muted);
   font-size: 0.74rem;
   font-weight: 800;
   letter-spacing: 0.04em;
@@ -1366,8 +1367,9 @@
 }
 
 .project-pill--accent {
-  background: var(--home-accent-soft);
-  color: var(--home-accent);
+  background: transparent;
+  color: var(--home-muted);
+  border-color: rgba(15, 23, 42, 0.08);
 }
 
 .project-card h2 {
@@ -1419,10 +1421,11 @@
   display: flex;
   align-items: flex-start;
   min-width: 0;
-  padding: 0.35rem;
-  border: 1px solid var(--home-border);
-  border-radius: 16px;
-  background: linear-gradient(135deg, var(--home-surface-soft), rgba(255, 255, 255, 0.8));
+  padding: 0;
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
 }
 
 .project-gallery {
@@ -1430,16 +1433,17 @@
   grid-template-columns: 1fr;
   gap: 0.8rem;
   width: 100%;
+  background: transparent;
 }
 
 .project-thumb {
   display: flex;
   flex-direction: column;
   overflow: hidden;
-  border: 1px solid var(--home-border);
-  border-radius: 16px;
-  background: var(--home-surface);
-  box-shadow: 0 12px 24px rgba(15, 23, 42, 0.08);
+  border: none;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
 }
 
 .project-thumb img {
@@ -1460,8 +1464,8 @@
   margin: 0.7rem 0.8rem 0.8rem;
   padding: 0.34rem 0.65rem;
   border-radius: 999px;
-  background: var(--home-primary-soft);
-  color: var(--home-primary-dark);
+  background: transparent;
+  color: var(--home-muted);
   font-size: 0.72rem;
   font-weight: 700;
   letter-spacing: 0.03em;
