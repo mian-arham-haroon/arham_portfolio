@@ -33,6 +33,12 @@
   --home-accent-soft: rgba(245, 158, 11, 0.14);
 }
 
+.md-header__button.md-logo img,
+[data-md-component="logo"] img {
+  border-radius: 50%;
+  display: block;
+}
+
 .md-header,
 .md-tabs {
   background: var(--home-primary-dark) !important;
